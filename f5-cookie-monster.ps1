@@ -1,4 +1,4 @@
-######     BIG-IP COOKIE DECODER
+######     BIG-IP COOKIE DECODER - 2015
 # Based on original code for Getting Cookies Using Powershell
 # https://gallery.technet.microsoft.com/scriptcenter/Getting-Cookies-using-3c373c7e
 # 
